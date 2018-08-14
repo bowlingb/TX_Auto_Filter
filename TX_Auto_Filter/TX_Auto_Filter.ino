@@ -58,8 +58,8 @@
 
 */
 
-#include <FreqCount.h>
-#include <LiquidCrystal.h>
+#include <FreqCount.h>			// https://github.com/PaulStoffregen/FreqCount
+#include <LiquidCrystal.h>		// Standard with IDE
 
 #define FILTER_ENB_PIN_01 A0
 #define FILTER_ENB_PIN_02 A1
